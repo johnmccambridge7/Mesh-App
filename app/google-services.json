@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "843650652450",
+    "firebase_url": "https://hackathon-825a7.firebaseio.com",
+    "project_id": "hackathon-825a7",
+    "storage_bucket": "hackathon-825a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843650652450:android:decf6f0bc62be0bd",
+        "android_client_info": {
+          "package_name": "com.example.hackathon_mesh_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEbG8sthlhurPPnz2ARpIsu6JSGOe-T6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843650652450-4jiid1kns2rah7ofiqli4joafppojk4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
