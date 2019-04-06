@@ -2,4 +2,6 @@
     <string name="app_name">Hackathon-Mesh-App</string>
     <string name="facebook_app_id">310965415975662</string>
     <string name="fb_login_protocol_scheme">fb310965415975662</string>
+    <string name="shr_hint_username">Username</string>
+    <string name="shr_hint_password">Password</string>
 </resources>
